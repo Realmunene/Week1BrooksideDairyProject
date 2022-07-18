@@ -84,3 +84,22 @@ body{
      color: white;
      margin: 0px;
  }
+ .general{
+    display: flex;
+    justify-content: space-between;
+    margin: 3% 4%;
+    text-align: center;
+ }
+ .ccontain{
+    background-image: linear-gradient(rgb(163, 30, 163), rgb(153, 26, 54));
+    padding: 2%;
+    text-align: left;
+    box-shadow: 7px 5px 25px; 
+    border-radius: 3%;
+ }
+ .hd{
+    color: white;
+    text-align: center;
+    text-shadow: 2px 1px 2px black;
+    text-decoration: underline;
+ }
